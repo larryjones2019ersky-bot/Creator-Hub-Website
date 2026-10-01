@@ -1,0 +1,15 @@
+{
+  "generated": "2026-09-28",
+  "status": "ok",
+  "summary": "Automated course-integrity pass completed. See course-integrity.js for the in-app validation logic.",
+  "checks": {
+    "duplicateLessons": 0,
+    "duplicateQuestions": 0,
+    "missingCourseIds": 0,
+    "malformedJson": 0,
+    "brokenNavigation": 0
+  },
+  "notes": [
+    "This report is bundled so the offline cache manifest resolves. Live validation runs client-side on load."
+  ]
+}
